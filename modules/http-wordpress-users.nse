@@ -29,6 +29,34 @@ Original advisory:
 -- | Username found: lean
 -- | Username found: alex
 -- | Username found: ricardo
+-- | Username found: users
+-- | Username found: user
+-- | Username found: jamal
+-- | Username found: jamal1
+-- | Username found: jamal12
+-- | Username found: jamal123
+-- | Username found: jamal1234
+-- | Username found: jamal12345
+-- | Username found: tp-link
+-- | Username found: yoga
+-- | Username found: riski
+-- | Username found: risky
+-- | Username found: rizki
+-- | Username found: rizky
+-- | Username found: 12345
+-- | Username found: 123456
+-- | Username found: 1234567
+-- | Username found: 12345678
+-- | Username found: 123456789
+-- | Username found: 987654321
+-- | Username found: Admin
+-- | Username found: admins
+-- | Username found: Aadmins
+-- | Username found: found123
+-- | Username found: found4321
+-- | Username found: cyberpunk123
+-- | Username found: adminphp
+-- | Username found: 654321
 -- |_Search stopped at ID #25. Increase the upper limit if necessary with 'http-wordpress-users.limit'
 --
 -- @args http-wordpress-users.limit Upper limit for ID search. Default: 25
